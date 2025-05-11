@@ -1,2 +1,3 @@
 # hello_test
-setting up git
+
+readme.md
